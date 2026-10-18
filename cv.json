@@ -1,0 +1,170 @@
+{
+  "$schema": "https://raw.githubusercontent.com/jsonresume/resume-schema/v1.0.0/schema.json",
+  "basics": {
+    "name": "Peerapob Jermmora",
+    "label": "Technical Consultant – ServiceNow",
+    "email": "Peerapob.J@gmail.com",
+    "summary": "ServiceNow Technical Consultant with 4+ years at MFEC delivering enterprise implementations across Strategic Portfolio Management, Customer Service Management, App Engine and IT Asset Management. Works across the whole delivery path, from turning business requirements into solution designs to building workflows, UI Builder workspaces and row-level security, and handing over to clients.",
+    "location": {
+      "city": "Bangkok",
+      "countryCode": "TH",
+      "region": "Thailand"
+    },
+    "profiles": [
+      {
+        "network": "GitHub",
+        "username": "JPeerapob",
+        "url": "https://github.com/JPeerapob"
+      }
+    ]
+  },
+  "work": [
+    {
+      "name": "MFEC Public Company Limited",
+      "position": "Technical Consultant",
+      "url": "https://www.mfec.co.th",
+      "startDate": "2024-07",
+      "highlights": [
+        "Core technical consultant on ServiceNow engagements, owning delivery from requirements and solution design through configuration, development and client handover.",
+        "Led the low-code (App Engine) development team on an enterprise self-service platform.",
+        "Authored Solution Design Documents and BRD-writing standards (priority and status definitions) that align BA, development and client teams."
+      ]
+    },
+    {
+      "name": "MFEC Public Company Limited",
+      "position": "Software Engineer",
+      "url": "https://www.mfec.co.th",
+      "startDate": "2022",
+      "endDate": "2024-06",
+      "highlights": [
+        "Developed ServiceNow CSM and App Engine applications and their integrations with surrounding systems for a public-facing service platform.",
+        "Built ServiceNow IT Asset Management and a Zendesk-based CRM for enterprise clients."
+      ]
+    }
+  ],
+  "projects": [
+    {
+      "name": "ServiceNow Strategic Portfolio Management (SPM) Implementation",
+      "entity": "Thai energy exploration & production company",
+      "roles": ["Technical Consultant"],
+      "startDate": "2026",
+      "highlights": [
+        "Designed Demand Management workflows, project template automation, and percent-complete / state rollup logic across Demand, Project and Portfolio.",
+        "Delivered UI Builder and Workspace customizations, UI Action bundles, and row-level security across four business personas.",
+        "Configured multi-currency (THB/USD) financial display and restructured the Solution Design Document."
+      ],
+      "keywords": ["SPM", "UI Builder", "Workspace", "ACL"]
+    },
+    {
+      "name": "Self-Service Hub Platform",
+      "entity": "Thai oil & retail company",
+      "roles": ["Low-code Team Lead"],
+      "startDate": "2025",
+      "endDate": "2025",
+      "highlights": [
+        "Led the low-code development team building ServiceNow App Engine applications that let internal staff manage and govern the licenses and permits the business operates under."
+      ],
+      "keywords": ["App Engine"]
+    },
+    {
+      "name": "Service Management Platform",
+      "entity": "Thai public-sector financial institution",
+      "roles": ["Developer"],
+      "startDate": "2023",
+      "endDate": "2024",
+      "highlights": [
+        "Built ServiceNow CSM and App Engine applications through which members of the public request the client's services and financial-institution officers handle them.",
+        "Developed integrations between the platform and the client's internal systems."
+      ],
+      "keywords": ["CSM", "App Engine", "Integration"]
+    },
+    {
+      "name": "IT Asset Management (ITAM)",
+      "entity": "Major Thai commercial bank",
+      "roles": ["Developer"],
+      "startDate": "2022",
+      "endDate": "2022",
+      "highlights": [
+        "Developed ServiceNow ITAM to record and manage the IT asset lifecycle and support IT asset service requests."
+      ],
+      "keywords": ["ITAM"]
+    },
+    {
+      "name": "Customer Relationship Management (CRM)",
+      "entity": "Thai conglomerate",
+      "roles": ["Developer"],
+      "startDate": "2022",
+      "endDate": "2022",
+      "highlights": [
+        "Built a Zendesk and Sunshine CRM integrated with the call center and back-office systems, letting end users report issues, file claims, track repairs and enquire about projects."
+      ],
+      "keywords": ["Zendesk", "Sunshine"]
+    }
+  ],
+  "skills": [
+    {
+      "name": "ServiceNow Strategic Portfolio Management",
+      "keywords": ["Demand intake & approval workflows", "Project templates", "Progress & state rollup", "Multi-currency financial display"]
+    },
+    {
+      "name": "UI Builder & Workspace Configuration",
+      "keywords": ["Workspace navigation & menus", "Page layouts", "Sidebar panels", "UI Actions"]
+    },
+    {
+      "name": "Platform Development & Security",
+      "keywords": ["Business rules", "Background scripts", "ACL row-level security", "Update set / XML analysis"]
+    },
+    {
+      "name": "ServiceNow ITSM & CSM",
+      "keywords": ["Incident, Problem, Change & Request", "Service Catalog", "Case management"]
+    },
+    {
+      "name": "Low-code & Integration",
+      "keywords": ["App Engine", "System integration", "Zendesk & Sunshine"]
+    },
+    {
+      "name": "Solution Documentation & Requirements",
+      "keywords": ["Solution Design Documents", "BRDs", "Defect & issue tracking", "Client handover"]
+    }
+  ],
+  "certificates": [
+    {
+      "name": "ServiceNow Certified System Administrator (CSA)",
+      "issuer": "ServiceNow"
+    },
+    {
+      "name": "ServiceNow Certified Implementation Specialist – Strategic Portfolio Management (CIS-SPM)",
+      "issuer": "ServiceNow",
+      "status": "in-progress"
+    },
+    {
+      "name": "ServiceNow Certified Application Developer (CAD)",
+      "issuer": "ServiceNow",
+      "status": "in-progress"
+    },
+    {
+      "name": "Partner Pre-sales Now Platform Accreditation (San Diego)",
+      "issuer": "ServiceNow"
+    },
+    {
+      "name": "Partner Pre-sales IT Service Management Accreditation (San Diego)",
+      "issuer": "ServiceNow"
+    },
+    {
+      "name": "Partner Pre-sales Build and Automate Solutions Accreditation (San Diego)",
+      "issuer": "ServiceNow"
+    },
+    {
+      "name": "Citizen Developer Core Skills Micro-Certification Suite",
+      "issuer": "ServiceNow"
+    }
+  ],
+  "education": [
+    {
+      "institution": "Mae Fah Luang University",
+      "area": "Software Engineering, School of Information Technology",
+      "studyType": "Bachelor's degree",
+      "endDate": "2022"
+    }
+  ]
+}
